@@ -24,7 +24,7 @@ itertools = "0.14.0"
 tracing = "0.1.41"
 
 # phase2 dependencies
-uplc-turbo = { git = "https://github.com/txpipe/uplc-turbo.git", rev = "bd174b3", optional = true }
+uplc-turbo = { git = "https://github.com/rodrigomd94/uplc-turbo", rev = "48e045a", optional = true }
 # uplc-turbo = { path = "../../../pragma-org/uplc/crates/uplc", optional = true }
 
 [features]
